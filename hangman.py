@@ -17,14 +17,14 @@ def play(word):
     print('\n')
     while not guessed and tries > 0:
         guess = input('Por favor, tente adivinhar a palavra ou uma letra: ').upper()
-        print('\n')
+        print('\n') 
         print('----- * ----- * -----')
         print('\n')
 
         if len(guess) == 1 and guess.isalpha():
             
             if guess in guessed_letters:
-                print('Você já palpitou essa letra!')
+                print('Você já deu palpite dessa letra')
             
             elif guess not in word:
                 print('A palavra não contém a letra', guess)
@@ -59,10 +59,7 @@ def play(word):
                 word_completion = word
 
         else:
-            print('Esse palpite não é válido :(')
-            print('\n')
-            print('----- * ----- * -----')
-            print('\n')
+            print('Esse palpite não é válido :(') 
 
         print(display_hangman(tries))
         print(word_completion)
@@ -163,7 +160,7 @@ def main():
     word = get_word()
     play(word)
     while input('Que tal jogar novamente? Digite S para sim ou N para não: ').upper() == "S":
-        print('\n')
+        print('\n') 
         print('----- * ----- * -----')
         print('\n')
         word = get_word()
