@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/drisabelles/hangman/assets/79321198/5a26fedb-2ebf-44f9-829a-5fdf3cc50445" width="100" height="100"> 
-  
+<img src="https://github.com/drisabelles/hangman/assets/79321198/7ca09a1b-d6f7-497f-ac5e-d22a6875a40e" width="100" height="100"> 
+
   # Jogo da Forca
 
 </div>
@@ -41,15 +41,13 @@ Aplicação desenvolvida com a intenção de praticar e aprimorar os conheciment
 
 ## 🖼️ Screenshots <a name="screenshots"></a>
 
+![incio do jogo](https://github.com/drisabelles/hangman/assets/79321198/f3cfa621-53c2-43fc-982b-560387fec44a)
 
-  ![Captura de tela 2023-05-23 231808](https://github.com/drisabelles/hangman/assets/79321198/8c2cdcc2-1880-40ce-83fc-485aad71f587)
+![letra existente](https://github.com/drisabelles/hangman/assets/79321198/f49b1139-441d-46d0-b27c-913c21a3fcd5)
 
-  ![Captura de tela 2023-05-23 233759](https://github.com/drisabelles/hangman/assets/79321198/23233b1f-6b92-4b75-93c2-774043c6e867)
+![letra inexistente e fim das tentativas](https://github.com/drisabelles/hangman/assets/79321198/c03b54c8-9c02-4961-9064-1a6840990bd2)
 
-  ![Captura de tela 2023-05-23 233921](https://github.com/drisabelles/hangman/assets/79321198/75c68a16-dc52-46ab-a221-6b8d82164f9c)
-  
-  ![Captura de tela 2023-05-23 234018](https://github.com/drisabelles/hangman/assets/79321198/66b90882-5ed9-4643-b115-d52a94024d5b)
-
+![acertou a palavra](https://github.com/drisabelles/hangman/assets/79321198/4c264067-8ff7-457a-b1f5-690c45327fc5)
 
 </br>
 
